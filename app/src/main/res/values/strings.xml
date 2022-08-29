@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">آموزش گرامر زبان انگلیسی</string>
+    <string name="simple_present">I go to school everyday</string>
+    <string name="present_continuous">She is going</string>
+    <string name="present_perfect">She has gone</string>
+    <string name="present_perfect_continuous">She has been teaching</string>
+    <string name="simple_past">She went to school yesterday</string>
+    <string name="past_continuous">She was reading a book</string>
+    <string name="past_perfect">She had gone</string>
+    <string name="past_perfect_continuous">She had been reading</string>
+    <string name="simple_future">I will go</string>
+    <string name="future_continuous">I will be doing</string>
+    <string name="future_perfect">I will have done</string>
+    <string name="future_perfect_continuous">I will have been teaching</string>
+</resources>
